@@ -1,0 +1,29 @@
+npm install react-to-print
+
+
+// react-to-print kutubxonasi React komponentlarini chop etishga yordam beradi. Bu usulda siz PDF faylini emas, balki HTML tarkibini PDF fayliga aylantirishni yoki to'g'ridan-to'g'ri chop etishni amalga oshirasiz.
+
+
+
+npm install jspdf html2canvas
+
+// Agar sizga to'g'ridan-to'g'ri PDF fayl yaratish va foydalanuvchiga yuklab olish imkonini berish kerak bo'lsa, jspdf kutubxonasidan foydalanishingiz mumkin.
+
+
+
+npm install print-js
+
+
+
+// print-js — bu JavaScript kutubxonasi bo'lib, veb-sahifalarda chop etish funksiyalarini sodda va qulay tarzda amalga oshirish uchun ishlatiladi. Bu kutubxona yordamida siz HTML elementlarni, tasvirlarni, JSON ma'lumotlarini va PDF hujjatlarni chop etishingiz mumkin.
+
+
+// print-js ning asosiy xususiyatlari:
+
+// 1. Oddiy va yengil: print-js juda yengil (taxminan 4KB) va foydalanish uchun oson.
+
+// 2. HTML elementlarni chop etish: Siz sahifadagi istalgan HTML elementni (masalan, div, section) chop etishingiz mumkin.
+// 3. PDF hujjatlarni chop etish: Brauzerda oldindan yuklab olingan yoki URL orqali kiritilgan PDF fayllarni chop etishga imkon beradi.
+// 4. Tasvirlarni chop etish: JPEG, PNG, GIF kabi tasvirlarni ham chop etishingiz mumkin.
+// 5. JSON ma'lumotlarni chop etish: JSON ma'lumotlarini stol formatida chop etish mumkin.
+// 6. Custom Style qo'llash: Chop etish jarayonida maxsus CSS uslublarini qo'shishingiz mumkin.
